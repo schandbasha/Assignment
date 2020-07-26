@@ -20,12 +20,12 @@ const App = ({ title }) =>
                 <ul className="navbar-nav mr-auto">
                   <li className="nav-item">
                   <NavLink to={'/'} activeStyle={{color: "#FFF"}} exact >
-                    <a className="nav-link" href="/">About</a>
+                    <a className="nav-link">About</a>
                   </NavLink>
                   </li>
                   <li className="nav-item">
                   <NavLink to={'/automobile'} activeStyle={{color: "#FFF"}} exact>
-                    <a className="nav-link" href="/automobile">Automobile Parts</a>
+                    <a className="nav-link">Automobile Parts</a>
                   </NavLink>
                   </li>
                 </ul>
