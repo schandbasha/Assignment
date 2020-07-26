@@ -1,0 +1,23 @@
+
+.Footer{
+    background-color:#007bff !important;
+    color: #FFF;
+}
+.pagination{
+    justify-content: center !important;
+}
+.searchBox{
+    justify-content: center !important;
+}
+.form-control{
+    margin: 0 auto;
+}
+.navbar{
+    background-color:#007bff !important;
+}
+.container-fullwidth{
+    box-sizing: content-box !important
+}
+thead{
+    color: #007bff !important
+}

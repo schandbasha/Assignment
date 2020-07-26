@@ -1,0 +1,12 @@
+.body{
+    background-color: red;
+}
+.Footer{
+    background-color: red;
+}
+.nav-link:hover{
+    text-decoration: none !important;
+}
+.aboutSection{
+    margin-top: 40px !important;
+}
