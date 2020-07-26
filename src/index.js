@@ -10,7 +10,7 @@ const title = 'My Minimal React Webpack Babel Setup';
 
 ReactDOM.render(
   <BrowserRouter>
-  <App title={title} />
+  <App />
   </BrowserRouter>,
   document.getElementById('app')
 );

@@ -66,7 +66,7 @@ const Index = () => {
         <Fragment>
             <div className = "row w-100">
                 <div className = "col mb-3 col-12 text-center mt-3">
-                            <Search  onSearch = { (value) => {
+                            <Search data-testid = "search-button" onSearch = { (value) => {
                                 setSearch(value);
                                 setcurrentPage(1);
                             }} />
